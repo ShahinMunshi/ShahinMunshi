@@ -1,67 +1,47 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ShahinMunshi&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
+  <p align="right">
+    <img src="https://img.shields.io/badge/-graphic%20design-333?style=flat-square&logo=graphicdesign&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-logo%20design-333?style=flat-square&logo=logodesign&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-thumbnail%20design-333?style=flat-square&logo=thumbnaildesign&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-vedio%20editing-333?style=flat-square&logo=vedioediting&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-smart%20presentation-333?style=flat-square&logo=smartpresentation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-solidworks%20modeling-333?style=flat-square&logo=solidworksmodeling&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-simiulation-333?style=flat-square&logo=simiulation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-animation-333?style=flat-square&logo=animation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-c%2Fc%2B%2B%20programming-333?style=flat-square&logo=c/c++programming&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Data%20entry%20and%20MS%20office-333?style=flat-square&logo=dataentryandmsoffice&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AI%20expertise-333?style=flat-square&logo=aiexpertise&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AI%20intrigation-333?style=flat-square&logo=aiintrigation&logoColor=white"/>
+  </p>
+</p>
 
-###
+<br clear="both"/>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+## 👋 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+🧑‍💻 I'm **Md. Shahin Munshi**, Graphic Designer.<br/>
+💼 Based in **Dhaka,Bangladesh**, working at **Upwork**.<br/>
+🌱 Currently learning: **Python**<br/>
+💬 Ask me about: **Graphic Designer**<br/>
+⚡ Fun fact: I love Eating
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 📫 Contact
 
-###
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammodshahinmunshi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mdshahinmunshi) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahinMunshi)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## ✍️ Blog & Content
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 💖 Support My Work
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahinMunshi&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
